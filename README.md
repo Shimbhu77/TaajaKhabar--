@@ -24,7 +24,7 @@
 
 - 📫 Gmail **Kumawatshimbhu4@gmail.com**
 
-- 👨‍💻 LinkedIn [https://www.linkedin.com/in/shimbhu-kumawat-65856520a/](https://www.linkedin.com/in/shimbhu-kumawat-65856520a/)
+- 👨‍💻 LinkedIn [https://www.linkedin.com/in/shimbhu-kumawat-65856520a/](https://www.linkedin.com/in/shimbhu-kumawat-65856520a/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
