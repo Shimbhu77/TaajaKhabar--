@@ -37,6 +37,7 @@
  <a> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" width="80" height="40"/> </a>
   <a> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="100" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="40"/> </a>
  </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimbhu77&show_icons=true&locale=en&layout=compact" alt="shimbhu77" /></p>
