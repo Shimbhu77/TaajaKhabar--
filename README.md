@@ -49,6 +49,23 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimbhu77" alt="shimbhu77" /></p>
 
+
+        <a href="https://github.com/Shimbhu77">  
+          <img 
+            style={{width:"100%"}}
+            align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimbhu77"  //launguages
+          />
+        </a>
+        <a href="https://github.com/Shimbhu77">
+          <img 
+            style={{width:"100%"}}
+            align="left"
+
+            src="https://github-readme-stats.vercel.app/api?username=Shimbhu77&count_private=true&show_icons=true" //stats
+          />
+        </a>
+   
 </body>
 
 
