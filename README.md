@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimbhu77&label=Profile%20views&color=0e75b6&style=flat" alt="shimbhu77" /> </p>
 
-- 👨‍💻 Portfolio [https://shimbhu77.github.io/](https://shimbhu77.github.io/)
+- 👨‍💻 Portfolio [https://shimbhu77.github.io/](https://shimbhu77.github.io/)                       
 
 - 👨‍💻 Resume [Shimbhu_Kumawat_Resume](https://drive.google.com/file/d/1Tt3xqD77bqEvru507Oh9AYtBcJcnr5oc/view?usp=share_link)
 
