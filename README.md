@@ -20,7 +20,7 @@
 
 - 👨‍💻 Portfolio [https://shimbhu77.github.io/](https://shimbhu77.github.io/)                       
 
-- 👨‍💻 Resume [Shimbhu_Kumawat_Resume](https://drive.google.com/file/d/1Tt3xqD77bqEvru507Oh9AYtBcJcnr5oc/view?usp=share_link)
+- 👨‍💻 Resume [Shimbhu_Kumawat_Resume](https://drive.google.com/file/d/1Tt3xqD77bqEvru507Oh9AYtBcJcnr5oc/view?usp=share_link)                         
 
 - 📫 Gmail **Kumawatshimbhu4@gmail.com**
 
